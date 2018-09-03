@@ -1,1 +1,1 @@
-#Este es un archivo de conflicto
+#Este es otro archivo de conflicto
