@@ -1,1 +1,3 @@
-#Este es otro archivo de conflicto
+HEAD
+#Este es un archivo de conflicto editado
+10213ae7ee9b0806cee558c975bab6c813d50354
